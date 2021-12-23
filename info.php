@@ -1,4 +1,4 @@
 <?php
-echo "PHP Tesw Running on github Tes yt";
+echo "PHP Tesw Running on github Tes ysdasdat";
 phpinfo();
 ?>
